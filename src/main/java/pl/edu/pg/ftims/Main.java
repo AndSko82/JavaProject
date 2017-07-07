@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 
 public class Main {
 	static List<Animal> list = new ArrayList<Animal>();
-	static int ANIMAL_MAX = 10;
+	static int ANIMAL_MAX = 50;
 	static int i;
 	public static PrintWriter out;
 	static MainFrame f;
